@@ -1,0 +1,53 @@
+engenharia-de-prompt-fundamentos
+Machine Learning (aprendizado de máquina) é uma área de Inteligência Artificial que ensina computadores a aprender padrões a partir de dados e melhorar suas decisões sem serem programadas explicitamente para cada tarefa.
+
+Como funciona (ideia simples)
+
+Em vez de escrever regras elaboradas para tudo, você:
+
+Dá muitos dados ao computador
+
+O algoritmo encontra esses dados
+
+Ele usa esses padrões para fazer decisões estratégicas ou tomar decisões
+
+Exemplo simples: Se você mostrar milhares de fotos de gatos e cachorros, o modelo aprende as diferenças e depois consegue identificar automaticamente se uma nova foto é de gato ou cachorro.
+
+Tipos principais de aprendizado de máquina
+
+Aprendizado supervisionado
+
+Os dados já têm respostas corretas.
+
+Exemplo: prever preço de casa ou classificar e-mails como spam.
+
+Aprendizado não supervisionado
+
+O sistema padrões encontra sozinho.
+
+Exemplo: agrupar clientes com comportamentos semelhantes.
+
+Aprendizado por reforço
+
+O sistema aprende tentando e recebendo recompensas ou punições.
+
+Muito usado em jogos e robótica.
+
+Exemplos do dia a dia
+
+Você provavelmente já usa Machine Learning em:
+
+Recomendações de filmes na Netflix
+
+Sugestões de vídeos no YouTube
+
+Filtros de spam no Gmail
+
+Assistentes virtuais como Siri ou Google Assistant
+
+Imagine o Machine Learning como treinar um atleta. No começo, um jogador de futebol não sabe exatamente quando passar, chutar ou driblar. O treinador mostra muitos exemplos durante os treinos: situações de jogo, erros e acertos. Com o tempo, o atleta começa a respeitar padrões — por exemplo, perceber quando um companheiro está bem posicionado para receber um passe. No Machine Learning acontece algo parecido: em vez de um treinador humano, o computador recebe muitos dados (exemplos) e um algoritmo aprende os padrões esses dados para tomar decisões ou fazer decisões específicas.
+
+Agora pense em um goleiro treinando pênaltis. Quanto mais chutes ele vê, mais ele aprende como o corpo do jogador indica para onde a bola vai. Ele não decorou uma regra exata para cada rampa; ele aprendeu observando muitos casos. Em Machine Learning, o modelo faz a mesma coisa: analisa milhares ou milhões de exemplos e melhora sua habilidade de prever resultados. Assim como um atleta melhorou com prática e feedback, o modelo melhorou quando é treinado com mais dados e ajustes no algoritmo dentro da área maior da Inteligência Artificial.
+
+Em resumo: Machine Learning = computadores aprendendo com dados para prever, classificar ou decidir coisas automaticamente. No entanto, a análise mostra que o conhecimento ainda está em nível introdutório e conceitual. Para aprofundar a aprendizagem, seria necessário avançar para aspectos mais técnicos, como algoritmos, fundamentos matemáticos e aplicações práticas, que são essenciais para desenvolver uma compreensão mais completa da área
+
